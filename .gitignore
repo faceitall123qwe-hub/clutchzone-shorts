@@ -1,0 +1,20 @@
+# kept out of GitHub
+node_modules/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.venv/
+venv/
+.next/
+*.log
+logs/
+.DS_Store
+Thumbs.db
+out/
+renders/
+snapshots/
+.hyperframes/
+.media/cache/
+assets/footage/
